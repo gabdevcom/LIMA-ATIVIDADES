@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+
+
+}
+
+
+.botao{
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: aqua;
+    position: absolute;
+    padding: 0px;
+    width: 200px;   
+}   
+
+.botao:hover{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    text-align: center;
+    color:hotpink;
+    background-color: pink;
+    width: 200px;
+}

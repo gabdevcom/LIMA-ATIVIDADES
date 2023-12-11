@@ -1,0 +1,33 @@
+p{
+    opacity: 60%;
+    margin-left: 50px;
+} 
+
+
+
+
+.form{ 
+ margin-top: 1px;
+ border: solid 1px black;
+}
+
+.botao{
+    border-radius: 1px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    text-align: center;
+    color: white;   
+    background-color: greenyellow;
+    width: 70px;
+}
+
+.botao2{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    text-align: center;
+    color: white;   
+    background-color: red;
+    width: 70px;
+}

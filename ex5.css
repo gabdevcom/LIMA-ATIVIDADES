@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/space.png);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.txt{
+    position: absolute;
+    color: aliceblue;
+    margin-top: 300px;
+    margin-left: 500px;
+    font-size: 50px;
+}

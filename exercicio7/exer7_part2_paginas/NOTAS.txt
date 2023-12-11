@@ -1,0 +1,16 @@
+diferença entre volume e capacidade e oq vc entendeu sobre as figuras geometricas
+
+
+
+REDES DE COMPUTADORES
+- História X
+- Comunicaçao de dados
+  -> Sistemas de comunicação X
+  -> Tipos de mensagens X
+  -> Fluxo de dados simplex, 
+- Redes nas organizações 
+- Redes para as pessoas
+- Redes de difusão X
+- Topologias de redes
+  anel X, barramento, estrela,	 ponta a ponta
+- Categorias de redes 

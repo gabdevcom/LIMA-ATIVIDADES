@@ -1,0 +1,29 @@
+/* cor do fundo */
+body{
+    background-color: gray;
+}
+
+
+/* titulo */
+
+.h1{
+    text-align: center;
+    color: white;
+    border: outset darkcyan;
+    padding: 30px 150px;
+    float: left;
+    margin-left: 360px;
+    margin-top: 20px;
+}
+
+.txt{
+    text-align: center;
+    color: white;
+    border: dotted white ;
+    padding: 30px 20px;
+    float: left;
+    margin-left: 160px;
+    margin-top: 60px;
+    width: 1050px;
+    height: 250px;
+}

@@ -1,0 +1,17 @@
+- Cabeçalho
+  -> Home
+  -> Sobre 
+  -> Catálogo
+  -> OUTLET
+  -> Barra de pesquisa 
+  -> Carrinho 
+  -> Contato
+
+
+- Rodapé
+ -> Redes sociais 
+ -> Fique sabendo das novidades: insira seu email aqui!
+ -> Contato: email e telefone
+
+
+finalizar compra ou continuar comprando 

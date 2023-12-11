@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-size: 0;
+}
+
+.txt{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+.txt2{
+    text-align: center;
+    position: relative;
+
+}
+
+.caixa1{ 
+    background-color: black;
+    height: 150px;
+    width: 150px;
+    position: fixed;
+    border: solid;
+    color: white
+}

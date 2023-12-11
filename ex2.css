@@ -1,0 +1,36 @@
+body{
+
+    background-color: tan;
+    border: dotted 20px white;
+    padding: 360px 15px;
+}
+
+
+
+.txt{
+
+    color: aliceblue;
+    text-align: center;
+    margin-top: -300px;
+}
+
+
+.img{
+    
+        position: absolute;
+        float: left;
+        height: 500px;
+        width: 500px;
+        top: 90px; 
+}
+
+
+.txt2{
+    
+    margin-top: 90px;
+    color: aliceblue;
+    border: double 20px white;
+    float: right;
+    font-size: 40px;
+    padding: 15px 15px;
+}

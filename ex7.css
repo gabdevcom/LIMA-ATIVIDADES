@@ -1,0 +1,48 @@
+
+.titulo{
+    color:hotpink;
+    text-align: center;
+    
+}
+
+body{
+    background-image: url(img/clound.png);
+    background-size: cover;
+    background-color: lightpink;
+}
+
+
+
+img{
+    width: 250px;
+    height: 350px;
+}
+
+.film2{ 
+    margin-left: 400px;
+    margin-top: -350px;
+}
+
+.film3{ 
+    margin-left: 800px;
+    margin-top: -350px;}
+
+.film4{
+    margin-left: 1200px;
+    margin-top: -350px;
+}
+
+.txt{
+    text-align: center;
+    color: hotpink;
+}
+
+video{
+    width: 490px;
+}
+
+
+.video{
+    margin-left: 480px;
+    margin-top: 20px;
+}
